@@ -1,0 +1,502 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marcos",
+      "surnames": "de la Calle",
+      "title": "Senior Software Developer @ ManoMano",
+      "description": "Senior developer with experience in architecture / backend / CI-CD / software craftsmanship.\n\n---\n\n☕ Working actively with JVM ecosystem:  Java (11, 17), Kotlin (1.5+), Spring Framework, SpringBoot (2+) and Spring Cloud.\n \n🛰️ Asynchronous communication with Apache Kafka & ActiveMQ.\n\n💾 Database / persistence experience: PostgreSQL, MongoDB & Redis.\n\n🤖 Configuration and deployment of containers / AS like JBoss or Tomcat.\n\n🛟 DevOps lifecycle: VCS with GIT & SVN, Maven and Gradle, CI/CD with Jenkins / Gitlab, SonarQube and Nexus.\n\n🐳 Docker and Kubernetes (K8s).\n\n⚗️ Testing with JUnit 5, Mockito, AssertJ, ArchUnit, TestContainers. BDD with Cucumber.\n\n👨‍🎓 Applying practices, patterns, and principles of clean architecture, microservices architecture and Domain-Driven Design (DDD) to day-to-day projects.\n\n⚡ Working with reactive and event-driven applications.\n\n📖 Enthusiast of technology, reading, writing, and TV series. Self learning is my way of life.",
+      "avatar": {
+        "alt": "profile_photo.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b1a5838b-3add-4dde-83d4-1fb3c5b0ab72_profile_photo.jpg"
+      },
+      "location": {
+        "notes": "Valladolid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/marcosDLCS"
+      },
+      {
+        "type": "other",
+        "URL": "https://mdlcs.dev/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/marcosdlcs"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marcosdlcs/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My personal way of life",
+        "fact": "* Sarcasm\n* Order\n* Read & practice: Learn"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ManoMano",
+          "URL": "https://www.linkedin.com/company/manomano?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "As part of one of the catalog teams, my job is to ensure the correct ingestion of product data with the highest quality and maintaining optimal performance during the process. These are some of the technologies I use on a daily basis: - Java (8,17) & Kotlin using Spring Framework, Spring Boot and Spring Cloud. - Persistence using Postgres, Redis and MongoDB. - Use of Docker and Kubernetes. AWS services like S3, Elasticache, RDS, EKS. - Asynchronous communication with Apache Kafka. - CI/CD workflow using Gitlab. In addition, as a best practices enthusiast, I encourage the team to use the principles and patterns of clean & microservices architectures, DDD, SOLID or Object Calisthenics, to cite a few examples."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LUCE INNOVATIVE TECHNOLOGIES (Luce IT)",
+          "URL": "https://www.linkedin.com/company/luce-innovative-technologies?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer & Tech Lead",
+            "startDate": "2019-08-01",
+            "finishDate": "2021-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LUCE INNOVATIVE TECHNOLOGIES (Luce IT)",
+          "URL": "https://www.linkedin.com/company/luce-innovative-technologies?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2016-01-01",
+            "finishDate": "2019-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LUCE INNOVATIVE TECHNOLOGIES (Luce IT)",
+          "URL": "https://www.linkedin.com/company/luce-innovative-technologies?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2014-08-01",
+            "finishDate": "2016-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dávila Villalobos S.L.U."
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2014-06-01",
+            "finishDate": "2014-09-30",
+            "challenges": [
+              {
+                "description": "Development of the company's corporate website Davila Villalobos S.L.U. - Web development with standard technologies (HTML, CSS and Javascript). Development of the company's corporate website Davila Villalobos S.L.U. - Web development with standard technologies (HTML, CSS and Javascript)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Asesoría y Medios de Gestión S.L.",
+          "URL": "https://www.linkedin.com/company/amg-informatica?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer - FCTs",
+            "startDate": "2014-03-01",
+            "finishDate": "2014-05-31",
+            "challenges": [
+              {
+                "description": "- Web development with standard technologies (HTML, CSS and Javascript). - Server side development with PHP and Yii Framework. - Web development with standard technologies (HTML, CSS and Javascript). - Server side development with PHP and Yii Framework."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Perruncho Studio",
+          "URL": "https://www.linkedin.com/company/perruncho-studio?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Ruby on Rails & PHP Developer",
+            "startDate": "2014-01-01",
+            "finishDate": "2015-12-31",
+            "challenges": [
+              {
+                "description": "Developer of the corporate website for Perruncho Studio (www.perruncho.com) with web technologies (Ruby, RoR, HTML5 and JS). - Website development with Joomla! CMS for public administrations and small companies. Developer of the corporate website for Perruncho Studio (www.perruncho.com) with web technologies (Ruby, RoR, HTML5 and JS). - Website development with Joomla! CMS for public administrations and small companies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MADISON MK",
+          "URL": "https://www.linkedin.com/company/madison-mk?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Quality Department - Intern",
+            "startDate": "2012-06-01",
+            "finishDate": "2012-07-31",
+            "challenges": [
+              {
+                "description": "Quality department . Call center and group management. Training of new employees. Quality department . Call center and group management. Training of new employees."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Social Media TIC's and Training, S.L.",
+          "URL": "https://www.linkedin.com/company/social-media-tic%27s-and-training-s-l-?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Social Media Management - Intern",
+            "startDate": "2012-05-01",
+            "finishDate": "2012-06-30",
+            "challenges": [
+              {
+                "description": "Learning about management of social networks as a complement for companies. Social Media Management techniques & tools. Learning about management of social networks as a complement for companies. Social Media Management techniques & tools."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Perruncho Studio Website",
+          "URL": "http://www.perruncho.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Davila Villalobos S.L.U - Página Web Empresarial",
+          "URL": "http://davilavillalobos.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Opendraft",
+          "URL": "http://opendraft.es"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Originales Urban by Firgas.",
+          "URL": "http://www.originalesurbanbyfirgas.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JuveCyL",
+          "URL": "http://www.juvecyl.es"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-06-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Certification with honors in Web Application Development",
+          "description": "Issued by I.E.S. Galileo"
+        },
+        "type": "achievement",
+        "publishingDate": "2014-06-01"
+      },
+      {
+        "details": {
+          "name": "Winner of the I Open Data Contest (Junta de Castilla y León)",
+          "description": "Issued by Junta de Castilla y León"
+        },
+        "type": "achievement",
+        "publishingDate": "2013-10-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tomcat",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Cloud Apps Master Information Technology",
+        "startDate": "2019-01-01",
+        "finishDate": "2020-12-31",
+        "institution": {
+          "name": "Universidad Rey Juan Carlos",
+          "URL": "https://www.linkedin.com/school/universidad-rey-juan-carlos/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Server-side Development with NodeJS",
+        "startDate": "2016-10-01",
+        "finishDate": "2016-10-01",
+        "institution": {
+          "name": "Coursera Course Certificates"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Multiplatform Mobile App Development with Web Technologies",
+        "startDate": "2016-08-01",
+        "finishDate": "2016-08-01",
+        "institution": {
+          "name": "Coursera Course Certificates"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Front-End JavaScript Frameworks: AngularJS",
+        "startDate": "2016-06-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Coursera Course Certificates"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "HTML, CSS and JavaScript",
+        "startDate": "2016-05-01",
+        "finishDate": "2016-05-01",
+        "institution": {
+          "name": "Coursera Course Certificates"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Front-End Web UI Frameworks and Tools",
+        "startDate": "2016-05-01",
+        "finishDate": "2016-05-01",
+        "institution": {
+          "name": "Coursera Course Certificates"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Technical Certificate in Web Application Development Computer Science",
+        "startDate": "2012-01-01",
+        "finishDate": "2014-12-31",
+        "institution": {
+          "name": "IES Galileo",
+          "URL": "https://www.linkedin.com/school/ies-galileo/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "First Certificate (FCE)",
+        "startDate": "2004-12-01",
+        "finishDate": "2004-12-01",
+        "institution": {
+          "name": "University of Cambridge"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/marcosdlcs/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
