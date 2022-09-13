@@ -222,19 +222,6 @@
       },
       {
         "details": {
-          "name": "Originales Urban by Firgas.",
-          "URL": "http://www.originalesurbanbyfirgas.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Perruncho Studio Website",
           "URL": "http://www.perruncho.com/"
         },
@@ -244,6 +231,34 @@
             "name": "Developer",
             "startDate": "2016-05-01",
             "finishDate": "2016-05-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Originales Urban by Firgas.",
+          "URL": "http://www.originalesurbanbyfirgas.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-03-01",
+            "finishDate": "2014-03-01",
             "competences": [
               {
                 "name": "CSS",
