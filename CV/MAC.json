@@ -209,19 +209,6 @@
       },
       {
         "details": {
-          "name": "Opendraft",
-          "URL": "http://opendraft.es"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Perruncho Studio Website",
           "URL": "http://www.perruncho.com/"
         },
@@ -270,6 +257,38 @@
               },
               {
                 "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Opendraft",
+          "URL": "http://opendraft.es"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-03-01",
+            "finishDate": "2014-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
                 "type": "technology"
               }
             ]
