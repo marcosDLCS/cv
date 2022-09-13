@@ -196,19 +196,6 @@
     "projects": [
       {
         "details": {
-          "name": "Perruncho Studio Website",
-          "URL": "http://www.perruncho.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-05-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Davila Villalobos S.L.U - Página Web Empresarial",
           "URL": "http://davilavillalobos.com/"
         },
@@ -256,6 +243,34 @@
           {
             "name": "Developer",
             "startDate": "2013-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Perruncho Studio Website",
+          "URL": "http://www.perruncho.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-05-01",
+            "finishDate": "2016-05-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
