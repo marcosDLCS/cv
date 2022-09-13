@@ -367,6 +367,31 @@
       },
       {
         "details": {
+          "name": "Mentor @ TeachTech 2021",
+          "URL": "https://www.teacht3ch.com/"
+        },
+        "type": "achievement",
+        "publishingDate": "2021-07-01",
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Mentorship"
+        ]
+      },
+      {
+        "details": {
           "name": "Certification with honors in Web Application Development",
           "description": "Issued by I.E.S. Galileo"
         },
