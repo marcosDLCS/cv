@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b1a5838b-3add-4dde-83d4-1fb3c5b0ab72_profile_photo.jpg"
       },
       "location": {
-        "notes": "Valladolid"
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Valladolid"
       }
     },
     "relevantLinks": [
@@ -301,19 +303,13 @@
       },
       {
         "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Apache Tomcat",
           "type": "technology"
         }
       },
@@ -325,19 +321,13 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Boot",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -355,13 +345,25 @@
       },
       {
         "skill": {
-          "name": "Redis",
+          "name": "Kotlin",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Tomcat",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
           "type": "technology"
         }
       }
