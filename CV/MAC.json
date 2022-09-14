@@ -602,6 +602,10 @@
           "type": "technology"
         },
         {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
@@ -625,6 +629,10 @@
         },
         {
           "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
           "type": "technology"
         }
       ]
