@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Valladolid"
+        "municipality": "Valladolid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -73,7 +74,12 @@
           {
             "name": "Senior Software Developer & Tech Lead",
             "startDate": "2019-08-01",
-            "finishDate": "2021-11-30"
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -86,7 +92,12 @@
           {
             "name": "Senior Software Developer",
             "startDate": "2016-01-01",
-            "finishDate": "2019-09-30"
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -99,7 +110,12 @@
           {
             "name": "Junior Software Developer",
             "startDate": "2014-08-01",
-            "finishDate": "2016-01-31"
+            "finishDate": "2016-01-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -197,6 +213,7 @@
       {
         "details": {
           "name": "Perruncho Studio Website",
+          "description": "",
           "URL": "http://www.perruncho.com/"
         },
         "type": "sideProject",
@@ -225,6 +242,7 @@
       {
         "details": {
           "name": "Davila Villalobos S.L.U - Página Web Empresarial",
+          "description": "",
           "URL": "http://davilavillalobos.com/"
         },
         "type": "sideProject",
@@ -253,6 +271,7 @@
       {
         "details": {
           "name": "Originales Urban by Firgas.",
+          "description": "",
           "URL": "http://www.originalesurbanbyfirgas.com/"
         },
         "type": "sideProject",
@@ -281,6 +300,7 @@
       {
         "details": {
           "name": "Opendraft",
+          "description": "",
           "URL": "http://opendraft.es"
         },
         "type": "sideProject",
@@ -313,6 +333,7 @@
       {
         "details": {
           "name": "JuveCyL",
+          "description": "",
           "URL": "http://www.juvecyl.es"
         },
         "type": "sideProject",
@@ -343,6 +364,7 @@
       {
         "details": {
           "name": "Mentor @ TeachTech 2022",
+          "description": "",
           "URL": "https://www.teacht3ch.com/"
         },
         "type": "achievement",
@@ -368,6 +390,7 @@
       {
         "details": {
           "name": "Mentor @ TeachTech 2021",
+          "description": "",
           "URL": "https://www.teacht3ch.com/"
         },
         "type": "achievement",
@@ -396,7 +419,10 @@
           "description": "Issued by I.E.S. Galileo"
         },
         "type": "achievement",
-        "publishingDate": "2014-06-01"
+        "publishingDate": "2014-06-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
@@ -404,17 +430,22 @@
           "description": "Issued by Junta de Castilla y León"
         },
         "type": "achievement",
-        "publishingDate": "2013-10-01"
+        "publishingDate": "2013-10-01",
+        "tags": [
+          ""
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -506,6 +537,7 @@
         "finishDate": "2020-12-31",
         "institution": {
           "name": "Universidad Rey Juan Carlos",
+          "description": "",
           "URL": "https://www.linkedin.com/school/universidad-rey-juan-carlos/?trk=public_profile_school_profile-section-card_full-click"
         }
       },
@@ -516,7 +548,8 @@
         "startDate": "2016-10-01",
         "finishDate": "2016-10-01",
         "institution": {
-          "name": "Coursera Course Certificates"
+          "name": "Coursera Course Certificates",
+          "description": ""
         }
       },
       {
@@ -526,7 +559,8 @@
         "startDate": "2016-08-01",
         "finishDate": "2016-08-01",
         "institution": {
-          "name": "Coursera Course Certificates"
+          "name": "Coursera Course Certificates",
+          "description": ""
         }
       },
       {
@@ -536,7 +570,8 @@
         "startDate": "2016-06-01",
         "finishDate": "2016-06-01",
         "institution": {
-          "name": "Coursera Course Certificates"
+          "name": "Coursera Course Certificates",
+          "description": ""
         }
       },
       {
@@ -546,7 +581,8 @@
         "startDate": "2016-05-01",
         "finishDate": "2016-05-01",
         "institution": {
-          "name": "Coursera Course Certificates"
+          "name": "Coursera Course Certificates",
+          "description": ""
         }
       },
       {
@@ -556,7 +592,8 @@
         "startDate": "2016-05-01",
         "finishDate": "2016-05-01",
         "institution": {
-          "name": "Coursera Course Certificates"
+          "name": "Coursera Course Certificates",
+          "description": ""
         }
       },
       {
@@ -567,6 +604,7 @@
         "finishDate": "2014-12-31",
         "institution": {
           "name": "IES Galileo",
+          "description": "",
           "URL": "https://www.linkedin.com/school/ies-galileo/?trk=public_profile_school_profile-section-card_full-click"
         }
       },
@@ -577,7 +615,8 @@
         "startDate": "2004-12-01",
         "finishDate": "2004-12-01",
         "institution": {
-          "name": "University of Cambridge"
+          "name": "University of Cambridge",
+          "description": ""
         }
       }
     ]
@@ -635,7 +674,14 @@
           "name": "Symfony",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Software Architect",
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
