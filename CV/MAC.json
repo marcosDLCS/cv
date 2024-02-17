@@ -252,7 +252,12 @@
       },
       {
         "organization": {
-          "name": "Perruncho Studio"
+          "name": "Perruncho Studio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/c3d2843c-47f7-42b9-8f1d-b49791ef2943_logo_perruncho-1.png",
+            "alt": "logo_perruncho-1.png"
+          },
+          "URL": "https://perruncho.com/"
         },
         "roles": [
           {
@@ -262,6 +267,28 @@
             "challenges": [
               {
                 "description": "Developer of the corporate website for Perruncho Studio (www.perruncho.com) with web technologies (Ruby, RoR, HTML5 and JS). \n\n- Website development with Joomla! CMS for public administrations and small companies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
               }
             ]
           }
