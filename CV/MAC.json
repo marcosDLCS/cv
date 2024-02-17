@@ -237,7 +237,11 @@
       },
       {
         "organization": {
-          "name": "Dávila Villalobos S.L.U."
+          "name": "Dávila Villalobos S.L.U.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/198210c5-af2f-4ac6-af36-3f1d0ac6ec36_logo.png",
+            "alt": "logo.png"
+          }
         },
         "roles": [
           {
@@ -247,6 +251,20 @@
             "challenges": [
               {
                 "description": "Development of the company's corporate website Davila Villalobos S.L.U.\n\n- Web development with standard technologies (HTML, CSS and Javascript). "
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
               }
             ]
           }
