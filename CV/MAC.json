@@ -47,6 +47,52 @@
     "jobs": [
       {
         "organization": {
+          "name": "SEAT:CODE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/14ff8e2a-24bb-4044-acfd-2a26ae6406c3_seatcode_logo.jpeg",
+            "alt": "seatcode_logo.jpeg"
+          },
+          "URL": "https://code.seat/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "ManoMano"
         },
         "roles": [
