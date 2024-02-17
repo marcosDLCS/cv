@@ -569,7 +569,10 @@
           "description": "Issued by I.E.S. Galileo"
         },
         "type": "achievement",
-        "publishingDate": "2014-06-01"
+        "publishingDate": "2014-06-01",
+        "tags": [
+          "Award"
+        ]
       },
       {
         "details": {
@@ -684,7 +687,29 @@
           "name": "Universidad Rey Juan Carlos",
           "URL": "https://www.linkedin.com/school/universidad-rey-juan-carlos/?trk=public_profile_school_profile-section-card_full-click"
         },
-        "finishDate": "2020-12-31"
+        "finishDate": "2020-12-31",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
