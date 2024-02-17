@@ -605,6 +605,14 @@
         },
         "finishDate": "2016-10-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
