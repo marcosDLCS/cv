@@ -580,7 +580,10 @@
           "description": "Issued by Junta de Castilla y León"
         },
         "type": "achievement",
-        "publishingDate": "2013-10-01"
+        "publishingDate": "2013-10-01",
+        "tags": [
+          "Award"
+        ]
       }
     ]
   },
