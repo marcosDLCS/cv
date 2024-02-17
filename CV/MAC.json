@@ -235,7 +235,12 @@
       },
       {
         "organization": {
-          "name": "Asesoría y Medios de Gestión S.L."
+          "name": "Asesoría y Medios de Gestión S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/1d44cc90-86f3-4650-803e-ab8df74db287_logo1.png",
+            "alt": "logo1.png"
+          },
+          "URL": "https://amg.es/"
         },
         "roles": [
           {
@@ -245,6 +250,28 @@
             "challenges": [
               {
                 "description": "- Web development with standard technologies (HTML, CSS and Javascript). \n- Server side development with PHP and Yii Framework."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Yii",
+                "type": "technology"
               }
             ]
           }
