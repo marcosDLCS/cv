@@ -136,7 +136,12 @@
       },
       {
         "organization": {
-          "name": "Teach[Tech]"
+          "name": "Teach[Tech]",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/754077f7-1090-48c1-872e-8164d8501bbc_mdrfqfjn_400x400.jpg",
+            "alt": "MdRFqfJN_400x400.jpg"
+          },
+          "URL": "https://www.teacht3ch.com/"
         },
         "roles": [
           {
@@ -145,6 +150,20 @@
             "challenges": [
               {
                 "description": "🆕 2023 Edition - Mentor & CM\n\n🌬️ 2022 Edition - Mentor & CM\n\n🌅 2021 Edition - Mentor"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
               }
             ]
           }
