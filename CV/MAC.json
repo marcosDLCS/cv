@@ -363,6 +363,31 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Mentor @ TeachTech 2023",
+          "URL": "https://www.teacht3ch.com/"
+        },
+        "type": "achievement",
+        "publishingDate": "2023-07-01",
+        "tags": [
+          "Mentorship"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Mentor @ TeachTech 2022",
           "URL": "https://www.teacht3ch.com/"
         },
