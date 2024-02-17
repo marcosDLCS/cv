@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -24,6 +24,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marcosdlcs/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/marcosDLCS"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/marcosdlcs"
+      },
       {
         "type": "other",
         "URL": "https://mdlcs.dev/"
@@ -232,6 +244,34 @@
       },
       {
         "details": {
+          "name": "Davila Villalobos S.L.U - Página Web Empresarial",
+          "URL": "http://davilavillalobos.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2016-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Originales Urban by Firgas.",
           "URL": "http://www.originalesurbanbyfirgas.com/"
         },
@@ -255,34 +295,6 @@
               }
             ],
             "finishDate": "2014-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "JuveCyL",
-          "URL": "http://www.juvecyl.es"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-06-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2013-06-01"
           }
         ]
       },
@@ -320,14 +332,14 @@
       },
       {
         "details": {
-          "name": "Davila Villalobos S.L.U - Página Web Empresarial",
-          "URL": "http://davilavillalobos.com/"
+          "name": "JuveCyL",
+          "URL": "http://www.juvecyl.es"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2014-09-01",
+            "startDate": "2013-06-01",
             "competences": [
               {
                 "name": "CSS",
@@ -342,7 +354,7 @@
                 "type": "technology"
               }
             ],
-            "finishDate": "2016-12-01"
+            "finishDate": "2013-06-01"
           }
         ]
       }
@@ -420,10 +432,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -610,12 +624,6 @@
       ],
       "contactMails": [
         "marcos.dlcs@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "647413146",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
