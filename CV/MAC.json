@@ -629,6 +629,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
