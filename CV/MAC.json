@@ -8,7 +8,7 @@
     "profile": {
       "name": "Marcos",
       "surnames": "de la Calle",
-      "title": "Senior Software Developer @ ManoMano",
+      "title": "Senior Software Developer @ SEAT:CODE",
       "description": "Senior developer with experience in architecture / backend / CI-CD / software craftsmanship.\n\n---\n\n☕ Working actively with JVM ecosystem: Java (17, 21), Kotlin, Spring Framework, SpringBoot and Spring Cloud.\n \n🛰️ Asynchronous communication with Apache Kafka & ActiveMQ.\n\n💾 Database / persistence experience: PostgreSQL, MongoDB & Redis.\n\n🤖 Configuration and deployment of containers / AS like JBoss or Tomcat.\n\n🛟 DevOps lifecycle: VCS with GIT & SVN, Maven and Gradle, CI/CD with Jenkins / Gitlab, SonarQube and Nexus.\n\n🐳 Docker and Kubernetes (K8s).\n\n⚗️ Testing with JUnit 5, Mockito, AssertJ, ArchUnit, TestContainers. BDD with Cucumber.\n\n👨‍🎓 Applying practices, patterns, and principles of clean architecture, microservices architecture and Domain-Driven Design (DDD) to day-to-day projects.\n\n⚡ Working with reactive and event-driven applications.\n\n📖 Enthusiast of technology, reading, writing, and TV series. Self learning is my way of life.\n\nMore at: https://mdlcs.dev/",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJk27GCIxyRw0R72uiHNSS_7M)",
