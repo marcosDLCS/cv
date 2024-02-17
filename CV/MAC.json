@@ -729,7 +729,7 @@
       }
     ],
     "desiredJobDescription": "My desired job would be one that allows me to work with cutting-edge technologies but also gives me the possibility to improve and learn new skills. \n\nI would like to be in a company that has a ladder of technical roles and does not force you to go through management positions on a mandatory basis.\n\nOn the other hand, I would also love to belong to a tolerant, committed and truly diverse company.",
-    "goodPractices": "Clean Architecture, Domain-Driven Design and simplicity.\n\nHigh cohesion, low coupling, separation of concerns. Testability.",
+    "goodPractices": "Clean Architecture, Domain-Driven Design and simplicity.\n\nHigh cohesion, low coupling, separation of concerns.\n\nTestability.",
     "projects": [
       {
         "name": "Davila Villalobos S.L.U - Página Web Empresarial"
