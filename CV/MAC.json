@@ -174,7 +174,12 @@
       },
       {
         "organization": {
-          "name": "LUCE INNOVATIVE TECHNOLOGIES (Luce IT)"
+          "name": "LUCE INNOVATIVE TECHNOLOGIES (Luce IT)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/98c6bef3-6671-4159-a52f-b16ab05b5fab_luce_innovative_tech.jpeg",
+            "alt": "luce_innovative_technologies_logo.jpeg"
+          },
+          "URL": "https://luceit.com/"
         },
         "roles": [
           {
