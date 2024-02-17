@@ -93,15 +93,42 @@
       },
       {
         "organization": {
-          "name": "ManoMano"
+          "name": "ManoMano",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/17/16fbb0fa-244f-448d-a8fb-da07f97f45e4_manomano_logo.jpeg",
+            "alt": "manomano_logo.jpeg"
+          },
+          "URL": "https://www.manomano.es/"
         },
         "roles": [
           {
             "name": "Senior Software Developer",
             "startDate": "2021-11-01",
-            "challenges": [
+            "finishDate": "2024-01-01",
+            "competences": [
               {
-                "description": "  helped me get this job"
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
               }
             ]
           }
