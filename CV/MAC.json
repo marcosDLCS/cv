@@ -641,10 +641,6 @@
           "type": "technology"
         },
         {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        {
           "name": "PostgreSQL",
           "type": "technology"
         },
